@@ -32,7 +32,7 @@ The message should contain 3 elements:
 ## Visualisation Tips
 The number one problem with Domain Message Flow Diagrams, and diagrams in general, is too much information. [Miller's Law](https://en.wikipedia.org/wiki/Miller%27s_law) is a good heuristic to use here. Aim to have between 5 and 9 messages on your diagram.
 
-If you find that adding the data to each message is breaking your flow of progress, you can defer the data section of each message it until you have placed all of your messages.
+If you find that adding the data to each message is breaking your flow of progress, you can defer the data section of each message until you have placed all of your messages.
 
 ## Additional Resources
 
